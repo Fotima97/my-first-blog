@@ -25,7 +25,7 @@ SECRET_KEY = 'zhw!d7#%$_ccc^&$!^#z%br-e&1ayg9furkqpp%l7k7mm+cd!h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1.8000', 'Fotima.pythonanywhere.com']
 
 
 # Application definition
